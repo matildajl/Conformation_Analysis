@@ -1,4 +1,4 @@
-# MasterThesis - Conformation Analysis
+# Conformation Analysis
 In this project, the conformations of different sugars were investigated by changing the dihedral angle and using distances to calculate the root-mean-square deviation (RMSD). To simplify the process, a program was created to test an interval for the dihedral angles and automatically measure the defined distances.  
 
 ## Prerequisite software
