@@ -10,7 +10,7 @@ You will need the following software
 
 PyMOL can be downloaded here: https://pymol.org/
 
-###Installation
+### Installation
 Clone the git repository into your chosen directory. 
 
 Open the file 'ConformationAnalysisTutorial.pdf' and follow the instructions.
