@@ -1,5 +1,5 @@
 # Master's Thesis
-Here you can find the scripts that were created and used for the master's thesis 'Characterisation of carbohydrate-binding to two cyanobacterial lectins by NMR spectroscopy' (2024)
+Here you can find the scripts that were created and used for the master's thesis 'Characterisation of carbohydrate binding to two cyanobacterial lectins by NMR spectroscopy' (2024)
 
 ## Conformation Analysis
 In this project, the conformations of different sugars were investigated by changing the dihedral angle and using distances to calculate the root-mean-square deviation (RMSD). To simplify the process, a program was created to test an interval for the dihedral angles and automatically measure the defined distances.  
